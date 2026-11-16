@@ -1,0 +1,11 @@
+# Ignorar archivos ejecutables compilados de Windows
+*.exe
+*.o
+*.obj
+
+# Ignorar carpetas internas de Visual Studio Code
+.vscode/
+
+# Ignorar archivos temporales del sistema
+Thumbs.db
+Desktop.ini
