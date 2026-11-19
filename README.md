@@ -20,7 +20,7 @@ Este proyecto consiste en un software de gestión energética inteligente escrit
 * **Carga Aplazable 1:** Aire Acondicionado (3.5 kW) - *Requiere mínimo 6 horas de operación diaria.*
 * **Carga Aplazable 2:** Calentador de Agua (2.0 kW) - *Requiere mínimo 4 horas de operación diaria.*
 * **Potencia Contratada:** 7.0 kW (Límite máximo del negocio).
-* **Umbral Precio Caro:** > 800 COP/kWh.
+* **Umbral Precio Caro:** > 950 COP/kWh.
 * **Umbral Embalse Crítico:** < 40 %.
 * **Franja Hora Pico:** 18:00 h a 20:59 h (Horas 18, 19 y 20).
 
